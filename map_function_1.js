@@ -5,4 +5,4 @@ render () {
     {cartoons.map(name => <li key={name}>{name}</li>)}
   </ul>
   );
-}
+} 
